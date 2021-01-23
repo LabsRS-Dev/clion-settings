@@ -1,0 +1,11 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <disabledLanguages>
+      <language id="TypeScript" />
+      <language id="JavaScript" />
+      <language id="ObjectiveC" />
+      <language id="Pascal" />
+      <language id="SQL" />
+    </disabledLanguages>
+  </component>
+</application>
